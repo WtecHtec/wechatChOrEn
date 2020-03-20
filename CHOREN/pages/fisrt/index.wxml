@@ -1,0 +1,3 @@
+<!--pages/fisrt/index.wxml-->
+<text>pages/fisrt/index.wxml</text>
+<button bindtap="settingLanguage">{{  $t['First']['buttonText'] }} </button>
